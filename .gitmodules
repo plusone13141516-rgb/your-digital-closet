@@ -1,0 +1,12 @@
+[submodule "vendor/deepfashion2"]
+	path = vendor/deepfashion2
+	url = https://github.com/switchablenorms/deepfashion2
+[submodule "vendor/polyvore-dataset"]
+	path = vendor/polyvore-dataset
+	url = https://github.com/xthan/polyvore-dataset
+[submodule "vendor/AiDLab-fAshIon-Data"]
+	path = vendor/AiDLab-fAshIon-Data
+	url = https://github.com/AemikaChow/AiDLab-fAshIon-Data
+[submodule "vendor/opentryon"]
+	path = vendor/opentryon
+	url = https://github.com/tryonlabs/opentryon
